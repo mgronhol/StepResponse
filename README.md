@@ -1,5 +1,5 @@
 # StepResponse
-Compute control parameters from [step response.](https://en.wikipedia.org/wiki/Step_response) ( [see example on pg. 8](https://readthedocs.web.cern.ch/download/attachments/21177736/PID_TUNING_OPERATOR.pdf))
+Compute control parameters from [step response.](https://en.wikipedia.org/wiki/Step_response) ( [see example on pg. 8](https://readthedocs.web.cern.ch/download/attachments/21177736/PID_TUNING_OPERATOR.pdf) )
 
 Currently works on linear FOTD (First Order Time Delay) systems.
 
